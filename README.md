@@ -22,10 +22,10 @@
    - **CED**.  ENG: Electoral County
    
  - **URBAN**
-   - **TTWA**. UK:  Travel to Work Area. There are also six *cross-border* areas (K01000009, ..., K01000014)
-   - **MTC**.  EW:  Major Towns and Cities
-   - **BUAS**. EW:  
-   - **BUA**.  EW:  
+   - **TTWA**. UK: Travel to Work Area. There are also six *cross-border* areas (K01000009, ..., K01000014)
+   - **MTC**.  EW: Major Towns and Cities
+   - **BUAS**. EW: Built-up Area
+   - **BUA**.  EW: Built-up Area Sub-division
    
  - **SOCIAL**
    - **PAR**. EW. ENG: Civil Parish or Unparished; WLS: Community
@@ -43,4 +43,3 @@
    - **NHSO**. ENG. NHS Local Office (formerly Local Area Team)
    - **NHSR**. ENG. NHS Region
    - **CIS**.  ENG. Covid Infection Survey (Oct-2020)
-
